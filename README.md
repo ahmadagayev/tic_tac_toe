@@ -1,2 +1,2 @@
-# tic_tac_toe
-Proyekt's link : https://proje-tic-tac-toe.netlify.app/
+# PROJECT'S LINK 
+https://proje-tic-tac-toe.netlify.app/
